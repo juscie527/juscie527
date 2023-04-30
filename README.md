@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juscie527
 - 👀 I’m interested in ... data science, software development etc...
 - 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ...building my knowledge in data science tools
+- 💞️ I’m looking to collaborate on ...building my knowledge with data science tools
 - 📫 How to reach me ... through linkedin 
 
 <!---
